@@ -1,2 +1,2 @@
-# ezboard-releases
-EZboard 설치 파일(최신 버전만)
+# 바로보드
+바로보드 설치 파일(최신 버전만)
